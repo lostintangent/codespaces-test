@@ -1,6 +1,5 @@
 {
     "name": "NodeJS & MySQL",
 	"dockerComposeFile": "docker-compose.yml",
-	"service": "app",
-	"workspaceFolder": "/workspace"
+	"service": "app"
 }
